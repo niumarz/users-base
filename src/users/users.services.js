@@ -89,6 +89,3 @@ module.exports = {
     patchUser,
     deleteUser
 }
-
-
-
